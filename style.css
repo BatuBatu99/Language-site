@@ -47,7 +47,7 @@ img {
     background-color: #000000;
     color: white;
     padding: 14px 30px;
-    border: 2px solid red;
+    border: 2px solid rgb(231, 0, 0);
     border-radius: 20px;
     font-weight: bold;
 }
